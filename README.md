@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesome-sh&label=Profile%20views&color=0e75b6&style=flat" alt="awesome-sh" /> </p>
+
 ## SungHwa Park, Profile
 
 :computer: Career
@@ -34,3 +36,5 @@
 :email: How to reach me
  - blog : http://sihus.tistory.com
  - eMail : sihus@naver.com
+ 
+ 
