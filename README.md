@@ -14,9 +14,18 @@
  
  
 ### :triangular_flag_on_post: Skils
- - Java (Spring FW, iBatis & myBatis)
- - Javascript (VanilaJS, React, NodeJS & Express (Rounting, Auth)
- - Database (Oracle, Mysql, Tibero, PostgreSQL & PostGIS, MongoDB)
+## Front-end
+ - HTML, CSS
+ - Javascript (ECMAScript)
+ - React, React-Native
+
+## Back-end
+ - Java (Spring Framework, 전자정부프레임워크)
+ - NodeJS (Express Framework) / Rounting, Auth
+
+## Database
+ - Oracle, Mysql, Tibero, PostgreSQL (extention PostGIS)
+ - NoSQL : MongoDB
  
  
 ### :page_with_curl: Side Project
