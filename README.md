@@ -16,9 +16,8 @@
  
 ### :triangular_flag_on_post: Skils
  #### Front-end
- - HTML, CSS
- - Javascript (ECMAScript)
- - React, React-Native
+ - HTML, CSS, Javascript (ES6 ~)
+ - React (Redux), React-Native
 
 
  #### Back-end
