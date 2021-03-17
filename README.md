@@ -8,7 +8,7 @@
 
 
 ### :balloon: Interest
- - Javascript (ES5, ES6 ~) Language
+ - Javascript Language
  - Web Based On React, React-Native
  - Web Application Development
  
