@@ -3,8 +3,8 @@
 ## SungHwa Park, Profile
 
 ### :computer: Career
-- M2S Korea (2021.01 ~ ) | Development Department | Software Engineer
-- GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher
+- M2S Korea (2021.01 ~ ) | Development Department | Software Engineer | FE, BE
+- GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher | FE, BE
 
 
 ### :balloon: Interest
