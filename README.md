@@ -13,7 +13,6 @@
  - Web Application Development
  
  
- 
 ### :triangular_flag_on_post: Skils
  #### Front-end
  - HTML, CSS, Javascript (ES6 ~)
@@ -41,6 +40,9 @@
  
  
 ### :seedling: Project Experience
+ - 클라이언트 사, 리포트 웹 페이지 구축 (Based on React)
+ - 자사 솔루션, 클라이언트 대시보드 웹 기획 및 구축 (API 서버, 웹) (21.03 ~ 05 )
+ - [고려대학교] 비대면 교육 시스템 API 서버 및 웹 (대시보드, WebGL 플레이웹) 구축 (21.01 ~ 03 )
  - [해양경찰청] 해양오염방제시스템 기능개선 사업 (20.06 ~ 10)
  - [연구사업] 19년 국내 기지국 전체 AIS 수신메시지 분석 ( 20.06 ~ 08 )
  - AIS Analytics / AIS Analytics DashBoard 개발 (Based on React)
