@@ -8,21 +8,25 @@
 
 
 ### :balloon: Interest
- - Javascript Language
- - Web Based On React, React-Native
+ - Javascript
+ - React, React-Native
  - Web Application Development
  
  
 ### :triangular_flag_on_post: Skils
  #### Front-end
  - HTML, CSS, Javascript (ES6 ~)
- - React (Redux), React-Native
-
+ - React, Redux, React-Native
+ - Webpack
 
  #### Back-end
  - Java / Spring Framework (MVC Project)
  - NodeJS / Routing, Auth, etc...
+ - Nginx / Deploy
 
+ ### DevOps
+ - AWS EC2 (Linux Ubuntu, Nginx, SSL...)
+ - Docket / Deploy
 
  #### Database
  - Oracle, Mysql, Tibero, PostgreSQL (extention PostGIS)
