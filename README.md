@@ -10,14 +10,18 @@
 ### :balloon: Interest
  - Javascript, Typescript
  - React, React-Native
- - Web Application Development
+ - Web, Mobile App Development
+ - API Server (Skills: NodeJS, Routing, JWT(Auth), MongoDB CRUD)
+ - A-Z Development
  
  
 ### :triangular_flag_on_post: Skils
  #### Front-end
- - HTML, CSS, Javascript (ES6 ~)
- - React, Redux, React-Native
- - Webpack
+ - HTML, CSS, Javascript (ES6 ~), Typescript
+ - React with Styled-components (👍 Custom Style)
+ - State Management with 'Redux'
+ - Mobile App Development with 'React-Native'
+ - Bundler with 'Webpack'
 
  #### Back-end
  - Java / Spring Framework (MVC Project)
