@@ -8,7 +8,7 @@
 
 
 ### :balloon: Interest
- - Javascript
+ - Javascript, Typescript
  - React, React-Native
  - Web Application Development
  
