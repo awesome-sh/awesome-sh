@@ -38,8 +38,9 @@
  
 
 ### :page_with_curl: Side Project
- - [Todo Application](https://github.com/awesome-sh/todo-list) (Based On VanilaJS, No Library)
- - [React Todo Application](https://github.com/awesome-sh/react-todolist) (Based On React, Native ContextAPI)
+ - [Reading Notes](https://play.google.com/store/apps/details?id=com.readingnote&hl=ko&gl=US) (React Native, Realm, Android, IOS, Firebase) / 2021
+ - [Todo Application](https://github.com/awesome-sh/todo-list) (Based On VanilaJS, No Library) / 2020 
+ - [React Todo Application](https://github.com/awesome-sh/react-todolist) (Based On React, Native ContextAPI) / 2020
  - [Leaflet-React](https://github.com/awesome-sh/Leaflet-React) (Based On React, Leaflet(GIS))
  - [Hobbyist](https://github.com/awesome-sh/Hobbyist) (Based On Java, Servlet)
  - [Parisjours](https://github.com/awesome-sh/ParisJours) (Base On Java, JavaFX)
