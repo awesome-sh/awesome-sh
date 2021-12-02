@@ -38,6 +38,7 @@
  
 
 ### :page_with_curl: Side Project
+ - [Find Specific Hospital](https://find-specific-hospital.vercel.app) (React) / 2021
  - [Reading Notes](https://play.google.com/store/apps/details?id=com.readingnote&hl=ko&gl=US) (React Native, Realm, Android, IOS, Firebase) / 2021
  - [Todo Application](https://github.com/awesome-sh/todo-list) (Based On VanilaJS, No Library) / 2020 
  - [React Todo Application](https://github.com/awesome-sh/react-todolist) (Based On React, Native ContextAPI) / 2020
@@ -47,6 +48,7 @@
  
  
 ### :seedling: Project Experience
+ - 자사 AWS Instance Status Tracker 웹 개발 (Based on React)
  - 클라이언트 사, 리포트 웹 페이지 구축 (Based on React)
  - 자사 솔루션, 클라이언트 대시보드 웹 기획 및 구축 (API 서버, 웹) (21.03 ~ 05)
  - [고려대학교] 비대면 교육 시스템 API 서버 및 웹 (대시보드, WebGL 플레이웹) 구축 (21.01 ~ 03)
