@@ -2,6 +2,8 @@
 
 ## SungHwa Park, Profile
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesome-sh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :computer: Career
 - M2S Korea (2021.01 ~ ) | Development Department | Software Engineer | FE, BE
 - GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher | FE, BE
