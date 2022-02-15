@@ -21,7 +21,7 @@
  #### Front-end
  - HTML, CSS, Javascript (ES6 ~), Typescript
  - React with Styled-components (👍 Custom Style)
- - State Management with 'Redux'
+ - State Management with 'Redux & Context API'
  - Mobile App Development with 'React-Native'
  - Bundler with 'Webpack'
 
@@ -32,12 +32,6 @@
 
  ### DevOps
  - AWS EC2 (Linux Ubuntu, Nginx, SSL...)
- - Docket / Deploy
-
- #### Database
- - Oracle, Mysql, Tibero, PostgreSQL (extention PostGIS)
- - NoSQL : MongoDB
- 
 
 ### :page_with_curl: Side Project
  - [Find Specific Hospital](https://find-specific-hospital.vercel.app) (React) / 2021
