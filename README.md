@@ -11,7 +11,7 @@
 
 ### :balloon: Interest
  - Javascript, Typescript
- - React, React-Native
+ - React, React-Native, Svelte
  - Web, Mobile App Development
  - API Server (Skills: NodeJS, Routing, JWT(Auth), MongoDB CRUD)
  - A-Z Development
