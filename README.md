@@ -33,6 +33,9 @@
  ### DevOps
  - AWS EC2 (Linux Ubuntu, Nginx, SSL...)
 
+### Portfolio
+ - [Project History | Portfolio](https://like-chicory-9ae.notion.site/M2S-Project-History-67c5a98530864e8190c4e83c22dc6d8f)
+
 ### :page_with_curl: Side Project
  - [Find Specific Hospital](https://find-specific-hospital.vercel.app) (React) / 2021
  - [Reading Notes](https://play.google.com/store/apps/details?id=com.readingnote&hl=ko&gl=US) (React Native, Realm, Android, IOS, Firebase) / 2021
