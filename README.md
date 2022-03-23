@@ -7,31 +7,12 @@
 ### :computer: Career
 - M2S Korea (2021.01 ~ ) | Development Department | Software Engineer | FE, BE
 - GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher | FE, BE
-
-
-### :balloon: Interest
- - Javascript, Typescript
- - React, React-Native, Svelte
- - Web, Mobile App Development
- - API Server (Skills: NodeJS, Routing, JWT(Auth), MongoDB CRUD)
- - A-Z Development
- 
  
 ### :triangular_flag_on_post: Skils
- #### Front-end
- - HTML, CSS, Javascript (ES6 ~), Typescript
- - React with Styled-components (👍 Custom Style)
- - State Management with 'Redux & Context API'
- - Mobile App Development with 'React-Native'
- - Bundler with 'Webpack'
-
- #### Back-end
- - Java / Spring Framework (MVC Project)
- - NodeJS / Routing, Auth, etc...
- - Nginx / Deploy
-
- ### DevOps
- - AWS EC2 (Linux Ubuntu, Nginx, SSL...)
+ ![javascript](https://img.shields.io/badge/Javascript-red)
+ ![React](https://img.shields.io/badge/React-blue)
+ ![React Native](https://img.shields.io/badge/ReactNative-blueviolet)
+ ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 
 ### Portfolio
  - [Project History | Portfolio](https://sihus.notion.site/Project-History-67c5a98530864e8190c4e83c22dc6d8f)
@@ -60,5 +41,3 @@
 ### :email: How to reach me
  - blog : http://sihus.tistory.com
  - eMail : sihus@naver.com
- 
- 
