@@ -18,9 +18,9 @@
  - [Project History | Portfolio](https://sihus.notion.site/Project-History-67c5a98530864e8190c4e83c22dc6d8f)
 
 ### :page_with_curl: Side Project
+ - [Thumbnail Generator](https://thumbnail-generator-bay.vercel.app/) (React) / 2021
  - [Find Specific Hospital](https://find-specific-hospital.vercel.app) (React) / 2021
  - [Reading Notes](https://play.google.com/store/apps/details?id=com.readingnote&hl=ko&gl=US) (React Native, Realm, Android, IOS, Firebase) / 2021
- - [Todo Application](https://github.com/awesome-sh/todo-list) (Based On VanilaJS, No Library) / 2020 
  - [React Todo Application](https://github.com/awesome-sh/react-todolist) (Based On React, Native ContextAPI) / 2020
  - [Leaflet-React](https://github.com/awesome-sh/Leaflet-React) (Based On React, Leaflet(GIS))
  - [Hobbyist](https://github.com/awesome-sh/Hobbyist) (Based On Java, Servlet)
