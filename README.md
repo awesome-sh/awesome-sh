@@ -3,8 +3,8 @@
 ## SungHwa Park, Profile
 
 ### :computer: Career
-- M2S Korea (2021.01 ~ ) | Development Department | Software Engineer | FE, BE
-- GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher | FE, BE
+- M2S Korea (2021.01 ~ ) | Development Department | Software Engineer | Front-end Engineer
+- GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher | Front-end Engineer
  
 ### :triangular_flag_on_post: Skils
  ![javascript](https://img.shields.io/badge/Javascript-red)
