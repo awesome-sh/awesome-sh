@@ -3,14 +3,18 @@
 ## SungHwa Park, Profile
 
 ### :computer: Career
-- M2S Korea (2021.01 ~ ) | Development Department | Software Engineer | Front-end Engineer
+- Smilegate (2023.03 ~ ) | Social Development Department | Software Engineer | Front-end Engineer
+- M2S Korea (2021.01 ~ 2023.03) | Development Department | Software Engineer | Front-end Engineer
 - GMT Co., Ltd. (2019.05 ~ 2020.12) | Service Development Department | Researcher | Front-end Engineer
  
 ### :triangular_flag_on_post: Skils
- ![javascript](https://img.shields.io/badge/Javascript-red)
+ ![Typescript](https://img.shields.io/badge/Typescript-blue)
+ ![Javascript](https://img.shields.io/badge/Javascript-red)
+ ![Vue](https://img.shields.io/badge/Vue-green)
  ![React](https://img.shields.io/badge/React-blue)
  ![React Native](https://img.shields.io/badge/ReactNative-blueviolet)
  ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
+ ![Webpack](https://img.shields.io/badge/Webpack-red)
 
 ### Portfolio
  - [Project History | Portfolio](https://sihus.notion.site/Project-History-67c5a98530864e8190c4e83c22dc6d8f)
