@@ -20,6 +20,7 @@
  - [Project History | Portfolio](https://sihus.notion.site/Project-History-67c5a98530864e8190c4e83c22dc6d8f)
 
 ### :page_with_curl: Side Project
+ - [LOA-TI](https://loa-ti.vercel.app/) (Vue/Nuxt) / 2025
  - [Thumbnail Generator](https://thumbnail-generator-bay.vercel.app/) (React) / 2021
  - [Find Specific Hospital](https://find-specific-hospital.vercel.app) (React) / 2021
  - [Reading Notes](https://play.google.com/store/apps/details?id=com.readingnote&hl=ko&gl=US) (React Native, Realm, Android, IOS, Firebase) / 2021
